@@ -1,0 +1,12 @@
+F:\ISMPrakt04\ISMPrakt04\LibClass\bin\Debug\net5.0\LibClass.deps.json
+F:\ISMPrakt04\ISMPrakt04\LibClass\bin\Debug\net5.0\LibClass.dll
+F:\ISMPrakt04\ISMPrakt04\LibClass\bin\Debug\net5.0\ref\LibClass.dll
+F:\ISMPrakt04\ISMPrakt04\LibClass\bin\Debug\net5.0\LibClass.pdb
+F:\ISMPrakt04\ISMPrakt04\LibClass\obj\Debug\net5.0\LibClass.csproj.AssemblyReference.cache
+F:\ISMPrakt04\ISMPrakt04\LibClass\obj\Debug\net5.0\LibClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\ISMPrakt04\ISMPrakt04\LibClass\obj\Debug\net5.0\LibClass.AssemblyInfoInputs.cache
+F:\ISMPrakt04\ISMPrakt04\LibClass\obj\Debug\net5.0\LibClass.AssemblyInfo.cs
+F:\ISMPrakt04\ISMPrakt04\LibClass\obj\Debug\net5.0\LibClass.csproj.CoreCompileInputs.cache
+F:\ISMPrakt04\ISMPrakt04\LibClass\obj\Debug\net5.0\LibClass.dll
+F:\ISMPrakt04\ISMPrakt04\LibClass\obj\Debug\net5.0\ref\LibClass.dll
+F:\ISMPrakt04\ISMPrakt04\LibClass\obj\Debug\net5.0\LibClass.pdb
